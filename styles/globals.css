@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#leaf {
+  background-image: url("../public/Background Image.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
