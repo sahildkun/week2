@@ -41,7 +41,7 @@ export default function Home() {
      <CardNature/>
      </div>
 
-     <div className='mt-44 md:mt-0 '>
+     <div className=' snap-none mt-44 md:mt-0 '>
       <Footer/>
      </div>
      </div>
